@@ -3,13 +3,13 @@ feedback_id,employee_id,comment,role,sentiment,ai_response
 2 ,E101 ,Always helpful and supportive. ,Peer ,POS,“It’s wonderful to hear that support is valued. Continue offering assistance – it makes a real difference to the team.”
 3 ,E102 ,Excellent leadership skills. ,Manager ,POS,“Your leadership is clearly valued by the team. Continue to foster a supportive and productive environment.”
 4 ,E103 ,Outstanding performance under pressure. ,Senior ,POS,“That’s a fantastic demonstration of resilience and skill. Maintaining this approach will be invaluable moving forward.”
-5 ,E104 ,Always goes the extra mile for the team. ,Senior ,POS,Response: “That’s a valuable contribution to the team’s success. Continue prioritizing this supportive approach.”
+5 ,E104 ,Always goes the extra mile for the team. ,Senior ,POS,Response: “That’s a valuable contribution to the team’s success. Continue prioritizing this supportive approach!”
 6 ,E105 ,Brings positive energy to the workplace. ,Senior ,POS,“It’s wonderful to see your positive energy contributing to the team’s atmosphere. Maintaining this enthusiasm will continue to benefit everyone.”
-7 ,E106 ,Needs improvement in meeting deadlines. ,Manager ,NEU,“Meeting deadlines is a key priority for the team’s progress. Focusing on prioritizing tasks and time management techniques could be beneficial.”
+7 ,E106 ,Needs improvement in meeting deadlines. ,Manager ,NEU,“Time management is key to project success. Prioritizing tasks and utilizing scheduling tools could be beneficial.”
 8 ,E107 ,Struggles with communication in meetings. ,Senior ,NEG,“Clear communication is key to effective meetings. Focusing on concisely sharing ideas and actively listening to others can greatly improve this.”
-9 ,E108 ,Sometimes lacks attention to detail. ,Manager ,NEG,“Accuracy is important for high-quality work. Focusing on reviewing completed tasks carefully can help ensure details are addressed.”
+9 ,E108 ,Sometimes lacks attention to detail. ,Manager ,NEG,“Accuracy is important for high-quality results. Focusing on reviewing work carefully before submission can help ensure details are addressed.”
 10 ,E109 ,Needs to work on time management. ,Senior ,NEG,“Effective time management is key to productivity. Prioritizing tasks and utilizing scheduling tools could be beneficial.”
-11 ,E110 ,Needs to provide more constructive feedback. ,Manager ,NEU,“Constructive feedback is vital for growth and team development. Focusing on specific observations and potential solutions will be beneficial moving forward.”
+11 ,E110 ,Needs to provide more constructive feedback. ,Manager ,NEU,“Constructive feedback is vital for growth and team development. Focusing on specific examples and suggesting actionable steps will be beneficial.”
 12 ,E111 ,Can improve in handling conflicts. ,Senior ,POS,“Conflict resolution is a valuable skill to develop. Focusing on active listening and seeking mutually agreeable solutions will strengthen team interactions.”
 13 ,E112 ,Should focus more on professional growth. ,Peer ,NEU,“Professional growth is a valuable investment. Exploring relevant training opportunities could be beneficial for continued development.”
 14 ,E113 ,Needs to improve technical skills. ,Manager ,NEU,“Developing technical skills is a valuable investment. Exploring relevant training resources could be beneficial for continued growth.”
