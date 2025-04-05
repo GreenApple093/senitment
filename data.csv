@@ -1,0 +1,21 @@
+feedback_id ,employee_id ,comment ,role 
+1 ,E100 ,Great teamwork and collaboration! ,Peer 
+2 ,E101 ,Always helpful and supportive. ,Peer 
+3 ,E102 ,Excellent leadership skills. ,Manager 
+4 ,E103 ,Outstanding performance under pressure. ,Senior 
+5 ,E104 ,Always goes the extra mile for the team. ,Senior 
+6 ,E105 ,Brings positive energy to the workplace. ,Senior 
+7 ,E106 ,Needs improvement in meeting deadlines. ,Manager 
+8 ,E107 ,Struggles with communication in meetings. ,Senior 
+9 ,E108 ,Sometimes lacks attention to detail. ,Manager 
+10 ,E109 ,Needs to work on time management. ,Senior 
+11 ,E110 ,Needs to provide more constructive feedback. ,Manager 
+12 ,E111 ,Can improve in handling conflicts. ,Senior 
+13 ,E112 ,Should focus more on professional growth. ,Peer 
+14 ,E113 ,Needs to improve technical skills. ,Manager 
+15 ,E114 ,Could be more proactive in problem-solving. ,Peer 
+16 ,E115 ,Demonstrates strong analytical skills. ,Manager 
+17 ,E116 ,Could engage more during team discussions. ,Peer 
+18 ,E117 ,Very dependable and reliable. ,Manager 
+19 ,E118 ,Shows great initiative in projects. ,Peer 
+20 ,E119 ,Works well in a team but needs more confidence. ,

@@ -1,0 +1,21 @@
+feedback_id,employee_id,comment,role,sentiment,ai_response
+1 ,E100 ,Great teamwork and collaboration! ,Peer ,POS,“The team benefits greatly from your collaborative spirit. Continue fostering this positive environment!”
+2 ,E101 ,Always helpful and supportive. ,Peer ,POS,“It’s wonderful to hear that support is valued. Continue offering assistance – it makes a real difference to the team.”
+3 ,E102 ,Excellent leadership skills. ,Manager ,POS,“Your leadership is clearly valued by the team. Continue to foster a supportive and productive environment.”
+4 ,E103 ,Outstanding performance under pressure. ,Senior ,POS,“That’s a fantastic demonstration of resilience and skill. Maintaining this approach will be invaluable moving forward.”
+5 ,E104 ,Always goes the extra mile for the team. ,Senior ,POS,Response: “That’s a valuable contribution to the team’s success. Continue prioritizing this supportive approach.”
+6 ,E105 ,Brings positive energy to the workplace. ,Senior ,POS,“It’s wonderful to see your positive energy contributing to the team’s atmosphere. Maintaining this enthusiasm will continue to benefit everyone.”
+7 ,E106 ,Needs improvement in meeting deadlines. ,Manager ,NEU,“Meeting deadlines is a key priority for the team’s progress. Focusing on prioritizing tasks and time management techniques could be beneficial.”
+8 ,E107 ,Struggles with communication in meetings. ,Senior ,NEG,“Clear communication is key to effective meetings. Focusing on concisely sharing ideas and actively listening to others can greatly improve this.”
+9 ,E108 ,Sometimes lacks attention to detail. ,Manager ,NEG,“Accuracy is important for high-quality work. Focusing on reviewing completed tasks carefully can help ensure details are addressed.”
+10 ,E109 ,Needs to work on time management. ,Senior ,NEG,“Effective time management is key to productivity. Prioritizing tasks and utilizing scheduling tools could be beneficial.”
+11 ,E110 ,Needs to provide more constructive feedback. ,Manager ,NEU,“Constructive feedback is vital for growth and team development. Focusing on specific observations and potential solutions will be beneficial moving forward.”
+12 ,E111 ,Can improve in handling conflicts. ,Senior ,POS,“Conflict resolution is a valuable skill to develop. Focusing on active listening and seeking mutually agreeable solutions will strengthen team interactions.”
+13 ,E112 ,Should focus more on professional growth. ,Peer ,NEU,“Professional growth is a valuable investment. Exploring relevant training opportunities could be beneficial for continued development.”
+14 ,E113 ,Needs to improve technical skills. ,Manager ,NEU,“Developing technical skills is a valuable investment. Exploring relevant training resources could be beneficial for continued growth.”
+15 ,E114 ,Could be more proactive in problem-solving. ,Peer ,NEU,“Taking initiative in problem-solving is valuable to the team’s progress. Exploring potential solutions ahead of time can be very beneficial.”
+16 ,E115 ,Demonstrates strong analytical skills. ,Manager ,POS,“That’s excellent to see such a strong analytical approach. Continue to leverage these skills to drive insightful solutions.”
+17 ,E116 ,Could engage more during team discussions. ,Peer ,POS,"“Your insights are valuable, and the team appreciates your perspective. Sharing more openly during discussions will further strengthen our collaborative efforts.”"
+18 ,E117 ,Very dependable and reliable. ,Manager ,POS,Response: “Reliability is a valuable asset to the team. Maintaining this dependability will continue to be greatly appreciated.”
+19 ,E118 ,Shows great initiative in projects. ,Peer ,POS,“Taking initiative on projects is incredibly valuable. Continue to explore opportunities to drive positive outcomes!”
+20 ,E119 ,Works well in a team but needs more confidence. ,,POS,“Teamwork is a valuable asset – building confidence will further strengthen contributions. Focusing on sharing ideas openly can help boost self-assurance.”
